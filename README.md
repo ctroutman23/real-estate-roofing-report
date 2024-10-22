@@ -4,13 +4,13 @@ the purposes of roofing marketing.
 I'm seeking out data that will help me identify homeowners who need
 a new roof, using 2 different datasets, real estate and storm data. 
 
-<strong>In real estate data,  I'll be looking at the data points below:</strong>
+<strong>In real estate data, I'll be looking at the data points below:</strong>
   
-  -Age of the Home
-  -Most Recent Listing
-  -Most recent photos of the roof
-  -Square footage of the house
-  -Values of comprable homes in the same market
+    -Age of the Home
+    -Most Recent Listing
+    -Most recent photos of the roof
+    -Square footage of the house
+    -Values of comprable homes in the same market
 
 Acquiring this data, requires scraping it from a major real estate service. 
 In this case, I chose to use Redfin.
