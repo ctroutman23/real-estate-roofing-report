@@ -53,6 +53,14 @@ file if they are no longer up to date.
 <strong>Mac</strong>                <strong>Windows</strong>                <strong>Linux</strong>
 pip3 install -r requirements.txt
 
+Our required packages include the following:
+
+<strong>Requests</strong>
+<p>The requests library enables us to easily use HTTP requests(GET, POST, DELETE, etc.). 
+This will be useful in calling our APIs</p>
+
+<strong>Pandas</strong>
+<p>Pandas is a python library that allows us to read in, clean, filter, and manipulate data.</p>
 
 <h3>Set Up API Calls</h3>
 
